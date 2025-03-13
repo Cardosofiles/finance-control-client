@@ -24,7 +24,7 @@ export function FooterProfile() {
 
       {/* RIGHT SIDE */}
       <FlexBetween>
-        <Typography fontSize="12px">
+        <Typography fontSize="12px" component="span">
           <div style={{ display: "flex", gap: "1rem" }}>
             <a
               href="https://github.com/Cardosofiles"

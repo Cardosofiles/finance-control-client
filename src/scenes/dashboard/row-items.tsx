@@ -3,7 +3,7 @@ import { useGetKpisQuery } from "@/state/api";
 
 export function RowItemsOne() {
   const { data } = useGetKpisQuery();
-  console.log(data);
+  console.log("🚀 ~ RowItemsOne ~ data:", data);
 
   return (
     <>
