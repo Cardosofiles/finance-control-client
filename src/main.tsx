@@ -3,7 +3,7 @@ import { setupListeners } from "@reduxjs/toolkit/query";
 import { createRoot } from "react-dom/client";
 import { Provider } from "react-redux";
 
-import { api } from "./state/api";
+import { api } from "./http/api";
 
 import { App } from "@/app";
 import "@/index.css";
