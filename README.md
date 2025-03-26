@@ -1,5 +1,7 @@
 # Finance Control Client
 
+![Screenshot da home page](/public/home-page.png)
+
 Este é o repositório do cliente do Finance Control, uma aplicação web para gestão financeira que consome a API `finance-dashboard-server`.
 
 ## 🚀 Tecnologias Utilizadas
