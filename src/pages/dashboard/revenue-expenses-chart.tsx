@@ -21,7 +21,7 @@ export function RevenueExpensesCharts() {
 
   // Definição dinâmica das margens
   const chartMargin = isSmallScreen
-    ? { top: 10, right: 10, left: 5, bottom: 60 } // Dispositivos pequenos (mobile)
+    ? { top: 10, right: 16, left: 5, bottom: 60 } // Dispositivos pequenos (mobile)
     : isMediumScreen
     ? { top: 15, right: 20, left: 10, bottom: 60 } // Tablets
     : { top: 20, right: 25, left: 15, bottom: 20 }; // Desktop
